@@ -1,0 +1,13 @@
+
+[1/7/26, 2:38:42 PM] ~ Researcher: https://academic.example.test/paper/10.1000/example-one
+[1/7/26, 4:26:34 PM] Researcher Two: https://journal.example.test/articles/example-two
+[1/7/26, 5:00:00 PM] 🧪 Researcher: https://publisher.example.test/fulltext/S0092-8674(26)00695-1?utm_source=chat
+[1/7/26, 5:01:00 PM] Researcher Two: https://publisher.example.test/methods/S2667-2375%2826%2900207-9
+[1/7/26, 7:07:10 PM] ~ Researcher: https://doi.org/10.1000/example-five
+‎[2/7/26, 11:44:46 AM] ~ Researcher: ‎image omitted
+[3/7/26, 1:40:32 AM] ~ Researcher: https://repository.example.test/article/10.1000/example-six
+[3/7/26, 2:35:22 AM] ~ Researcher: https://arxiv.org/abs/2607.01234v1
+[3/7/26, 1:36:47 PM] Researcher Two: https://pubmed.ncbi.nlm.nih.gov/12345678/
+[3/7/26, 5:07:38 PM] ~ Researcher: https://science.example.test/doi/10.1000/example-nine?__cf_chl_f_tk=temporary
+[3/7/26, 5:08:35 PM] ~ Researcher: https://nature.example.test/articles/example-ten
+
